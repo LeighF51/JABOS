@@ -1,0 +1,5 @@
+{
+    "PackagesDirectory" : "C:/Users/your-user/.nuget/packages/your-project",
+    "ProjectPath" : "path/to/project",
+    "LocalNugetPath" : "C:/dev/nuget" 
+}
