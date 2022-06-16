@@ -15,7 +15,6 @@ brew install --cask firefox
 brew install --cask google-chrome
 brew install --cask discord
 brew install --cask spotify
-brew install --cask sensiblesidebuttons
 
 # Dev tools
 echo "Install Dev Tools? (Y/N) " 
