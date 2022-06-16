@@ -14,6 +14,7 @@
 
 - If you are on Apple Silicon run the following to install `Rosetta 2`
     - `sudo softwareupdate --install-rosetta`
+    - Note, this may need to be rerun after OS updates.
 
 ## Post-Script Steps
 
