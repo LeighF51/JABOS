@@ -25,6 +25,7 @@ if [[ "$devToolDecision" == "Y" || "$devToolDecision" == "y" ]]; then
     brew install git
     brew install nvm
     brew install nano
+    brew install awscli
     brew install font-fira-code
     brew install --cask iterm2
     brew install --cask dotnet-sdk
