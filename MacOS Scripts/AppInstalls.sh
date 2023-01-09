@@ -37,4 +37,4 @@ if [[ "$devToolDecision" == "Y" || "$devToolDecision" == "y" ]]; then
     brew install --cask azure-data-studio
     brew install --cask kdiff3
     brew install --cask fork
-fis
+fi
