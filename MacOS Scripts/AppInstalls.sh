@@ -37,4 +37,7 @@ if [[ "$devToolDecision" == "Y" || "$devToolDecision" == "y" ]]; then
     brew install --cask azure-data-studio
     brew install --cask kdiff3
     brew install --cask fork
+    brew install --cask spectacle
+    brew install --cask flycut
+    brew install --cask caffeine
 fi
